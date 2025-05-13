@@ -1,0 +1,15 @@
+package B3;
+
+public class StringExerciseQ7 {
+	    public static String truncate(String input, int length) {
+	        if (input == null || input.length() <= length) {
+	            return input;
+	        }
+	        return input.substring(0, length).trim() + "...";
+	    }
+	    public static void main(String[] args) {
+	        String longText = "AIET is one of the best engineering colleges.";
+	        System.out.println("Truncated: " + truncate(longText, 20));
+	    }
+	}
+
