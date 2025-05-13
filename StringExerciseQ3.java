@@ -1,0 +1,14 @@
+package A33;
+
+public class StringExerciseQ3 {
+	    public static String reverseString(String input) {
+	        StringBuilder sb = new StringBuilder(input);
+	        return sb.reverse().toString();
+	    }
+	    public static void main(String[] args) {
+	        String original = "AIET";
+	        String reversed = reverseString(original);
+	        System.out.println("Reversed String: " + reversed); // TEIA
+	    }
+	}
+
