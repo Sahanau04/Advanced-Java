@@ -15,3 +15,5 @@
 [LinkedListreverseiterate o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162322.png)
 
 [LinkedListinsertend o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162327.png)
+
+[LinkedListdisplayposition o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162335.png)
