@@ -20,6 +20,6 @@
 
 [LinkedListswap o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162341.png)
 
-[Stringfunction o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20190607.png)
+[Stringhandlingfunction o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20190607.png)
 
-[2SBANDSBF]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20192626.png)
+[SBANDSBF2]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20192626.png)
