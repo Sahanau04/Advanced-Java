@@ -10,8 +10,8 @@
 
 [ArrayList2remove nth o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155703.png)
 
-[ArrayList2startposition o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162314.png)
+[LinkedListstartposition o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162314.png)
 
-[ArrayList2reverseiterate o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162322.png)
+[LinkedListreverseiterate o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162322.png)
 
-[ArrayList2insertend o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162327.png)
+[LinkedListinsertend o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162327.png)
