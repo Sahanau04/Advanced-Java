@@ -19,3 +19,5 @@
 [LinkedListdisplayposition o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162335.png)
 
 [LinkedListswap o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162341.png)
+
+[Stringfunction o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20190607.png)
