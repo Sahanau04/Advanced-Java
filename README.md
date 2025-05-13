@@ -37,3 +37,5 @@
 [StringExercise5]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213236.png)
 
 [StringExercise6]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220246.png)
+
+[StringExercise7]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220447.png)
