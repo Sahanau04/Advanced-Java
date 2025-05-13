@@ -25,3 +25,5 @@
 [SBANDSBF2]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20192626.png)
 
 [StringOperation]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20211917.png)
+
+[StringExercise1]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20215159.png)
