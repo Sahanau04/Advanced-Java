@@ -9,3 +9,5 @@
 [ArrayList2sublist o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155714.png)
 
 [ArrayList2remove nth o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155703.png)
+
+[ArrayList2startposition o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162314.png)
