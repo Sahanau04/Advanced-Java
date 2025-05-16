@@ -54,6 +54,6 @@ Arraylist Program with Exercise
 
 [program4a o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20224123.png)
 
-[program4b o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20224713.png)(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20224721.png)
+[program4b indiaclick o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20224713.png)[program4b shrilankaclick]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20224721.png)
 
 [program5a o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-15%20225519.png)
