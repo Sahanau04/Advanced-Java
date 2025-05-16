@@ -1,50 +1,56 @@
-[ArrayList o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20151527.png)
+Arraylist Program with Exercise
 
-[ArrayList2colorsearch o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155440.png)
+[program1A o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20151527.png)
 
-[ArrayList2remove2nd o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155658.png)
+[program1b1 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155440.png)
 
-[ArrayList2sort o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155709.png)
+[program1b2 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155658.png)
 
-[ArrayList2sublist o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155714.png)
+[program1b3 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155709.png)
 
-[ArrayList2remove nth o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155703.png)
+[program1b4 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155714.png)
 
-[LinkedListstartposition o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162314.png)
+[program1b5 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20155703.png)
 
-[LinkedListreverseiterate o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162322.png)
+[program1c1 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162314.png)
 
-[LinkedListinsertend o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162327.png)
+[program1c2 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162322.png)
 
-[LinkedListdisplayposition o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162335.png)
+[program1c3 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162327.png)
 
-[LinkedListswap o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162341.png)
+[program1c4 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162335.png)
 
-[Stringhandlingfunction o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20190607.png)
+[program1c5 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20162341.png)
 
-[SBANDSBF2]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20192626.png)
+[program2a o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20190607.png)
 
-[Stringhandlingfunction o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-15%20192956.png)
+[program2b o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20192626.png)
 
-[StringOperation]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20211917.png)
+[program3a o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-15%20192956.png)
 
-[StringExercise1]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20215159.png)
+3b. String Exercise progams
 
-[StringExercise2]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213204.png)
+[program3b1 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20211917.png)
 
-[StringExercise3]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213212.png)
+[program3b2 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20215159.png)
 
-[StringExercise4]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213219.png)
+[program3b3 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213204.png)
 
-[StringExercise5]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213236.png)
+[program3b4 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213212.png)
 
-[StringExercise6]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220246.png)
+[program3b5 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213219.png)
 
-[StringExercise7]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220447.png)
+3c. String Exercise progams
 
-[StringExercise8]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220519.png)
+[program3c6 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213236.png)
 
-[StringExercise9]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220545.png)
+[program3a7 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220246.png)
+
+[program3a8 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220447.png)
+
+[program3a9 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220519.png)
+
+[program3a10 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220545.png)
 
 [StringExercise10]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220648.png)
 
