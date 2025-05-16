@@ -30,29 +30,27 @@ Arraylist Program with Exercise
 
 3b. String Exercise progams
 
-[program3b1 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20211917.png)
+[program3b1 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20215159.png)
 
-[program3b2 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20215159.png)
+[program3b2 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213204.png)
 
-[program3b3 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213204.png)
+[program3b3 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213212.png)
 
-[program3b4 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213212.png)
+[program3b4 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213219.png)
 
-[program3b5 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213219.png)
+[program3c5 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213236.png)
 
 3c. String Exercise progams
 
-[program3c6 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20213236.png)
+[program3a6 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220246.png)
 
-[program3a7 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220246.png)
+[program3a7 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220447.png)
 
-[program3a8 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220447.png)
+[program3a8 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220519.png)
 
-[program3a9 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220519.png)
+[program3a9 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220545.png)
 
-[program3a10 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220545.png)
-
-[StringExercise10]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220648.png)
+[program3a10 o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20220648.png)
 
 [hello 6h class Swing.java]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-13%20224123.png)
 
