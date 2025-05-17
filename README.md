@@ -65,3 +65,5 @@ Arraylist Program with Exercise
 [program5d o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-16%20193219.png)
 
 [program6a o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-17%20155053.png)
+
+[program6b o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-17%20185010.png)
