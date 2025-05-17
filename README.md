@@ -69,3 +69,4 @@ Arraylist Program with Exercise
 [program6b o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-17%20185010.png)[after the enter o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-17%20185005.png)
 
 [program6c o/p link]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-17%20191018.png)
+[after enter]->(https://github.com/Sahanau04/Advanced-Java/blob/main/Screenshot%202025-05-17%20191013.png)
